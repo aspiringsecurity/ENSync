@@ -106,7 +106,7 @@ A Uniswap V4 hook that tracks swap activity per agent address:
 
 ## Agent
 
-The Rust agent uses libp2p for P2P communication and Alloy for on-chain interaction. See [`agent/README.md`](agent/README.md) for full details.
+The Rust agent uses libp2p for P2P communication and Alloy for on-chain interaction. 
 
 ### Quick Start
 
