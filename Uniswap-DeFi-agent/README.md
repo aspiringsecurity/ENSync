@@ -1,4 +1,6 @@
-Rust libp2p agents coordinating Uniswap V4 swaps on Sepolia testnet.
+### Uniswap DeFi agents Module with libp2p
+
+libp2p agents coordinating Uniswap V4 swaps on Sepolia testnet.
 
 ## Overview
 
