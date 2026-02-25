@@ -149,7 +149,7 @@ This enables experimentation with trust-minimized on/off-ramp and payment coordi
 
 ## 📽 Demo
 
-[🔗](https://drive.google.com/drive/folders/1NeKDIqq0DNT3LOuY0ey7O38aNzsfLndr?usp=drive_link) 
+🔗[Demo](https://drive.google.com/drive/folders/1NeKDIqq0DNT3LOuY0ey7O38aNzsfLndr?usp=drive_link) 
 
 ---
 
