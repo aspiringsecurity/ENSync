@@ -1,6 +1,6 @@
 # **ENSync**
 
-**ENS-native autonomous agents for decentralized coordination and on-chain execution**
+**ENS-native autonomous agents for decentralized coordination and on-chain execution using libp2p**
 
 ENSync is a decentralized system that enables autonomous agents to coordinate financial actions using human-readable ENS identities, peer-to-peer networking, and Uniswap V4 execution. It demonstrates how identity, coordination, and liquidity can be composed into a trust-minimized agent economy without centralized infrastructure.
 
